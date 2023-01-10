@@ -1,27 +1,37 @@
-# MyTienda
+# Angular Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
+Este es un proyecto que contiene la implementación de un sitio web con el uso de API rest con Angular.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Objetivo 🚀
 
-## Code scaffolding
+Crear una aplicación web en angular para obtener,crear, editar y eliminar usuarios, productos y categorías, tenga en cuenta el login y la autentificación del usuario.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Procedimiento 🛠️
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+El proceso general que lleva el proyecto es el siguiente:
 
-## Running unit tests
+1. Implementación de la API.
+2. Creación de un slides para los detalles del producto.
+3. Creación de un nuevo producto.
+4. Editar un producto.
+5. Eliminación de productos.
+6. Uso de la paginación.
+7. Manejo de Errores y CORS.
+8. Login y Manejo de Auth.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Links 🎈
 
-## Running end-to-end tests
+Enlace del sitio web en GitHub pages: https://elrodriguez14.github.io/angular_project/
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Enlace del repositorio en GitHub:  https://github.com/ElRodriguez14/angular_project
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Temas implementados 📚
+
+* Angular.
+* Javascript.
+* API.
+
+
